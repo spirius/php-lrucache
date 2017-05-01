@@ -1,5 +1,5 @@
 {
-    "name": "lrucache/lrucache",
+    "name": "spirius/lrucache",
     "description": "PHP LRU Cache implementation",
     "keywords": ["php", "lru", "cache"],
     "homepage": "https://github.com/rogeriopvl/php-lrucache",
