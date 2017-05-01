@@ -121,6 +121,13 @@ class LRUCache {
         $node->getNext()->setPrevious($node->getPrevious());
     }
 
+    /**
+     * Return current size of cache
+     * @return int
+     */
+    public function size() {
+        return count($this->hashmap);
+    }
 }
 
 /**
